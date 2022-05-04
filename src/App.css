@@ -21,7 +21,7 @@ body {
     text-align: center;
 }
 .fields label {
-    display: block;
+    display: inline-block;
     margin-bottom: 20px;
 }
 
